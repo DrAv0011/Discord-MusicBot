@@ -1,8 +1,8 @@
 {
-  "name": "Discord-MusicBot",
-  "description": "Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name",
-  "repository": "https://github.com/SudhanPlayz/Discord-MusicBot",
-  "logo": "https://cdn.discordapp.com/avatars/750613142488481843/e6326038dbe2243ca551ba5b6ecd8bf2.png?size=1024",
+  "name": "Av Beats",
+  "description": "Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name. Av's custom instance.",
+  "repository": "https://github.com/DrAv0011/Discord-MusicBot",
+  "logo": "https://pbs.twimg.com/profile_images/1399868656398577664/i2GA9XgI_400x400.jpg",
   "keywords": [
     "node",
     "discord",
