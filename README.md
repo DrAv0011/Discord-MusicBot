@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
+<h1 align="center"><img src="https://pbs.twimg.com/profile_images/1399868656398577664/i2GA9XgI_400x400.jpg" width="30px"> Discord Music Bot <img src="https://pbs.twimg.com/profile_images/1399868656398577664/i2GA9XgI_400x400.jpg" width="30px"></h1>
 
 Av's custom instance of SudhanPlayz Discord-MusicBot.
 
@@ -38,7 +38,7 @@ Soon
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
+<a href="https://github.com/DrAv0011/Discord-MusicBot/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
 </a>
 
